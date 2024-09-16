@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on completing my Master's in Computer Engineering at Purdue University, taking coursework in Software Engineering and Artificial Intelligence!
+- 🌱 I’m currently learning DevOps and AWS to develop expertise in cloud-native architectures. 
+- 📫 How to reach me: [carolinecgilbert6@gmail.com](mailto:carolinecgilbert6@gmail.com)
